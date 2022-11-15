@@ -14,4 +14,6 @@
 
 ## Блок-схема
 
-Решение задачи лежит в папке Task
+![1](https://user-images.githubusercontent.com/113132692/201841426-f0c29724-9de0-4d6a-bf56-ba8e59e6cf43.jpg)
+
+Решение задачи лежит в папке Task.
